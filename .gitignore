@@ -16,3 +16,5 @@ obj/
 *.cache
 *.tmp
 *.bak
+
+packages/
